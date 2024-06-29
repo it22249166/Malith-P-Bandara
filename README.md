@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malith</h1>
-<h3 align="center">A passionate fullstack developer from Srilanka</h3>
+<h3 align="center">A passionate IT student from Srilanka</h3>
 
 ---
 
